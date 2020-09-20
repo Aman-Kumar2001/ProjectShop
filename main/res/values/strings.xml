@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Shop</string>
+
+    <string name="insert_home">Insert Dummy</string>
+
+    <string name="delete_home">Delete All</string>
+
+    <string name="add_new_in_edit">Add new item</string>
+
+    <string name="delete_this">Delete</string>
+</resources>
